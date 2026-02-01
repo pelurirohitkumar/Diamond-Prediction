@@ -34,7 +34,7 @@ referencing==0.37.0
 regex==2026.1.15
 requests==2.32.5
 rpds-py==0.30.0
-scikit-learn==1.8.0
+scikit-learn==1.6.1
 scipy==1.17.0
 six==1.17.0
 smmap==5.0.2
@@ -51,3 +51,4 @@ urllib3==2.6.3
 validators==0.35.0
 watchdog==6.0.0
 Werkzeug==3.1.5
+
